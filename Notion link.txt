@@ -1,1 +1,6 @@
 https://geralt-of-rivia.notion.site/DevOps-Lab-6fae7ab312df4ec6b6eac41c29517f08
+
+
+
+only docker commands 👇
+https://vedajones.notion.site/vedajones/Docker-b2fddde777b6499f95fbbb1bd627200c
